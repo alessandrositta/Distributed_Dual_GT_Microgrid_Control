@@ -1,6 +1,6 @@
 # Distributed Dual Gradient Tracking for Microgrid Control
 
-## Abstract
+## Abstract :battery:
 Energy efficiency and renewable energy are pushing towards rethinking the idea of grids. Not only conventional power supplies are present nowadays, but also other sources of energy e.g. solar panel, biomass generator and wind turbines. The notion of microgrid enters here, as a localized group of electricity sources and sinks that operates with macrogrid. The main advantageous point is that the microgrid can operate autonomously from the conventional power generators. In other words, it represents a distributed energy resources and loads that can operate in a coordinate way. Such challenging distributed optimization set-up consider each node of the network as an agent whose overall goal is to minimize the sum of the local cost functions. As in a realworld application, each function depends on a local variable that will be subjected to local and coupling constraints. Duality theory helps to handle the distributed algorithm in a simple and intuitive manner. In the paper a network of N agents, arranged in generator, storage units, controllable loads and a trade node, that must solve a microgrid control problem is considered. The solution is carried out introducing the Dual Method and then applying the Distributed Gradient Tracking Algorithm on the cost-coupled problem [Complete Paper (Distributed_Dual_GT_Microgrid_Control.pdf)
 
 ## Contacts :speech_balloon:
